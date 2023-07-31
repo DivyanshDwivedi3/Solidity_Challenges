@@ -1,11 +1,14 @@
 Project Title
+
 Token Creation
 
 Description
+
 This Solidity smart contract is a token named "MyToken" with symbol "OPL." It allows minting new tokens to a specified address using the mint function and burning tokens from an address using the burn function. The contract keeps track of token balances through a balances mapping and has no access control mechanisms.
 
 
 Installing
+
 Copy the code from GitHub
 Paste the code on Remix ide 
 Save the file with .sol extension
